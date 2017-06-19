@@ -1,5 +1,11 @@
 # TP_2017
 
+## Karolina Kogut i Filip Adamus
+
+* Program napisany w Windows Forms
+* Visual Studio C++
+* Winda, podaje wagę ludzi w windzie
+
 ## Tworzymy własny projekt
 
 * Zaczynamy od zrobienia forka głównego projektu
